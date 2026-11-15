@@ -21,3 +21,38 @@ Sample Input
 Sample Output
 Enter the number of terms: 7
 0 1 1 2 3 5 8 */
+#include <stdio.h>
+
+int input();
+void generateFibonacci(int n);
+void output(int value);
+
+int main() {
+    int n;
+    n = input();
+    generateFibonacci(n);
+    return 0;
+}
+int input() {
+    int n;
+    printf("Enter the number of terms:");
+    scanf("%d",&n);
+    return n;
+}
+void generateFibonacci(int n) {
+    int a=0,b=1,next;
+    int count=0;
+
+    while(count<n) {
+        output(a);
+        next=a+b;
+        a=b;
+        b=next;
+        count++;
+    }
+    printf("\n");
+
+}
+void output(int value) {
+    printf("%d, ",value);
+}
