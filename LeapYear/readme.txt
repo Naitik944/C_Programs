@@ -1,0 +1,2 @@
+so here our logic is simple we be using % that is modulo for find if it gives zero and if we will proceed
+like leap_year=year%4; year%100 and year%400 and as it gives leap_year==0 then we will call year as leap year

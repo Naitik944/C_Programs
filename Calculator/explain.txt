@@ -1,0 +1,79 @@
+MODULAR C CALCULATOR
+====================
+
+This program is an interactive command-line calculator written in C11. It
+continues showing the menu until the user chooses Exit.
+
+FILE-BY-FILE EXPLANATION
+------------------------
+
+main.c
+------
+Contains the program entry point and user interface.
+
+- Displays the operation menu.
+- Reads decimal values safely using fgets and strtod instead of relying on
+  unchecked scanf input.
+- Validates invalid text and out-of-range numeric input.
+- Calls the appropriate function from multiple.c or single.c.
+- Displays the project credits.
+- Prevents division by zero.
+- Rejects negative and non-integer factorial input.
+- Limits factorial input to 20 so the result fits in unsigned long long.
+- Reports that negative square roots are not real.
+- Formats floating-point results with up to ten significant digits.
+
+single.h
+--------
+Declares operations that use one number:
+
+- square: calculates number multiplied by itself.
+- square_root: calculates the square root.
+- absolute_value: returns the non-negative magnitude.
+- factorial: calculates the factorial of a non-negative integer.
+
+single.c
+--------
+Implements the one-number operations declared in single.h. It uses the
+standard math library functions sqrt and fabs.
+
+multiple.h
+----------
+Declares operations that use two numbers:
+
+- add
+- subtract
+- multiply
+- divide
+- remainder_value
+- power
+
+multiple.c
+----------
+Implements the two-number operations. It uses fmod for the floating-point
+remainder and pow for exponentiation.
+
+CMakeLists.txt
+--------------
+Defines the C11 executable and includes only the new source and header files.
+It also links the math library on Unix-like systems, including macOS and
+Linux.
+
+FEATURES
+--------
+
+1. Addition of two decimal numbers.
+2. Subtraction of two decimal numbers.
+3. Multiplication of two decimal numbers.
+4. Division with quotient and remainder output.
+5. Division-by-zero protection.
+6. Power/exponent calculation.
+7. Square calculation.
+8. Square-root calculation with negative-input protection.
+9. Absolute-value calculation.
+10. Factorial for integers from 0 through 20.
+11. Interactive menu loop with an Exit option.
+12. Input validation for malformed and out-of-range values.
+13. Credits screen identifying the project author.
+14. Modular design that separates the interface, single-number operations,
+    and multiple-number operations.

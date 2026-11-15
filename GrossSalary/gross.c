@@ -1,0 +1,1 @@
+/*Ramesh's basic salary is input through the keyboard.His dearness allowance is 40%*/
