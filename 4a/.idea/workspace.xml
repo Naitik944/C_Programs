@@ -18,7 +18,9 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="4a" targetName="4a" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -26,18 +28,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef6e3c0d-cce2-45ad-894b-8d03922fc3b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4a.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LAB_PROGRAMS/2a/2a.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_PROGRAMS/10A(Calculator)/10A(Calculator).xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_PROGRAMS/10A(Calculator)/10A(Calculator).xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_PROGRAMS/10A(Calculator)/10A(Calculator).xcodeproj/project.xcworkspace/xcuserdata/naitiksingh.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_PROGRAMS/10A(Calculator)/10A(Calculator).xcodeproj/xcuserdata/naitiksingh.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB_PROGRAMS/10A(Calculator)/MyTool/10a.c" beforeDir="false" />
-    </list>
+    <list default="true" id="ef6e3c0d-cce2-45ad-894b-8d03922fc3b4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,61 +66,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0003884482211538" />
-      <entry key="S2" value="1.1516841730191718" />
-      <entry key="S5" value="1.8001067292392894" />
-      <entry key="S10" value="3.441375286200413" />
-      <entry key="S30" value="12.092590323845563" />
-      <entry key="S60" value="23.63184241777137" />
-      <entry key="M2" value="39.034619724897865" />
-      <entry key="M5" value="76.52232040587359" />
-      <entry key="M10" value="137.51424847202674" />
-      <entry key="M15" value="184.1509516605469" />
-      <entry key="M30" value="262.0053709498507" />
-      <entry key="H1" value="320.0005544816417" />
-      <entry key="H2" value="355.73817504769397" />
-      <entry key="H4" value="375.6229487454339" />
-      <entry key="D1" value="393.32842126256384" />
-      <entry key="W1" value="396.4727564426958" />
+      <entry key="MS100" value="1.3894853776029361" />
+      <entry key="MS500" value="2.836478671837675" />
+      <entry key="S2" value="5.055216074103142" />
+      <entry key="S5" value="7.12995245848073" />
+      <entry key="S10" value="12.207757164842192" />
+      <entry key="S30" value="28.278240091505776" />
+      <entry key="S60" value="38.69366058968763" />
+      <entry key="M2" value="51.2611656873637" />
+      <entry key="M5" value="87.3794291681125" />
+      <entry key="M10" value="148.34706065973916" />
+      <entry key="M15" value="198.4706810928509" />
+      <entry key="M30" value="288.22560898593895" />
+      <entry key="H1" value="359.21826292628333" />
+      <entry key="H2" value="404.47002545860107" />
+      <entry key="H4" value="430.10224404701825" />
+      <entry key="D1" value="453.18392609442947" />
+      <entry key="W1" value="457.3077884245721" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.52745E-319" />
-      <entry key="S2" value="2.139437126073695E-80" />
-      <entry key="S5" value="1.7968635871512257E-32" />
-      <entry key="S10" value="1.8413539930060037E-16" />
-      <entry key="S30" value="8.969427728845676E-6" />
-      <entry key="S60" value="0.004231765574962912" />
-      <entry key="M2" value="0.09197752414386406" />
-      <entry key="M5" value="0.5835365917899771" />
-      <entry key="M10" value="1.080302248266776" />
-      <entry key="M15" value="1.3264962150266948" />
-      <entry key="M30" value="1.6287993488341694" />
-      <entry key="H1" value="1.8048814721834878" />
-      <entry key="H2" value="1.8999375015252633" />
-      <entry key="H4" value="1.9493267783163624" />
-      <entry key="D1" value="1.9914638942650702" />
-      <entry key="W1" value="1.9987783197454716" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.461470096992222E-133" />
+      <entry key="S5" value="9.73444667159495E-54" />
+      <entry key="S10" value="4.285834229473883E-27" />
+      <entry key="S30" value="2.5609283542572613E-9" />
+      <entry key="S60" value="7.150525309030474E-5" />
+      <entry key="M2" value="0.011956109626408742" />
+      <entry key="M5" value="0.25800692567738004" />
+      <entry key="M10" value="0.7183348134065223" />
+      <entry key="M15" value="1.0105561239794818" />
+      <entry key="M30" value="1.4216569044804788" />
+      <entry key="H1" value="1.6862124538343435" />
+      <entry key="H2" value="1.836416211424448" />
+      <entry key="H4" value="1.9164634909864662" />
+      <entry key="D1" value="1.9858285667235325" />
+      <entry key="W1" value="1.9979693344830591" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0024266425650314E-7" />
-      <entry key="MS500" value="0.040213650061896505" />
-      <entry key="S2" value="0.595661312227699" />
-      <entry key="S5" value="1.499530793116114" />
-      <entry key="S10" value="3.2460740362036744" />
-      <entry key="S30" value="11.963783930489427" />
-      <entry key="S60" value="23.53355072885887" />
-      <entry key="M2" value="39.049104440432615" />
-      <entry key="M5" value="77.03191479164867" />
-      <entry key="M10" value="138.5137540608561" />
-      <entry key="M15" value="185.40041188546186" />
-      <entry key="M30" value="263.5761632921244" />
-      <entry key="H1" value="321.7691661670762" />
-      <entry key="H2" value="357.61774074676566" />
-      <entry key="H4" value="377.56146776592556" />
-      <entry key="D1" value="395.31799163167324" />
-      <entry key="W1" value="398.47126191965793" />
+      <entry key="MS100" value="1.3327614022294993" />
+      <entry key="MS500" value="2.8064969431952935" />
+      <entry key="S2" value="5.040379353448633" />
+      <entry key="S5" value="7.12192333434285" />
+      <entry key="S10" value="12.201369781988102" />
+      <entry key="S30" value="28.27329747528115" />
+      <entry key="S60" value="38.688458346899964" />
+      <entry key="M2" value="51.26052152342612" />
+      <entry key="M5" value="87.60325923280217" />
+      <entry key="M10" value="149.0107913296418" />
+      <entry key="M15" value="199.42192585143727" />
+      <entry key="M30" value="289.59630346088926" />
+      <entry key="H1" value="360.8704184705433" />
+      <entry key="H2" value="406.2866636002466" />
+      <entry key="H4" value="432.0080379326524" />
+      <entry key="D1" value="455.1678590998718" />
+      <entry key="W1" value="459.30548396908756" />
     </decayedShown>
   </component>
   <component name="ProjectApplicationVersion">
@@ -190,18 +181,25 @@
       </method>
     </configuration>
   </component>
-  <component name="SelectedDebugProfileService">{
-  &quot;profileIdByStamp&quot;: [
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [
     {
-      &quot;first&quot;: {
-        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake Application.4a&quot;,
-        &quot;cmake&quot;: null
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.4a",
+        "cmake": "CMakeBuildProfile:Debug"
       },
-      &quot;second&quot;: &quot;35055a98-4f28-4ac1-a09a-48442ad79b5d&quot;
+      "second": "35055a98-4f28-4ac1-a09a-48442ad79b5d"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "CMake Application.4a",
+        "cmake": null
+      },
+      "second": "35055a98-4f28-4ac1-a09a-48442ad79b5d"
     }
   ],
-  &quot;modificationCount&quot;: 11
-}</component>
+  "modificationCount": 13
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ef6e3c0d-cce2-45ad-894b-8d03922fc3b4" name="Changes" comment="" />
