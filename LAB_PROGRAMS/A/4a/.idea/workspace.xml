@@ -28,7 +28,37 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef6e3c0d-cce2-45ad-894b-8d03922fc3b4" name="Changes" comment="" />
+    <list default="true" id="ef6e3c0d-cce2-45ad-894b-8d03922fc3b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../2a/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2a/.idea/2a.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2a/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2a/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2a/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2a/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2a/2a.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2a/CMakeLists 2.48.16 PM.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4a/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4a/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4a/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4a/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4a/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4a/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4a/4a.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4a/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4a/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5A/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5A/5a.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5A/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5b/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5b/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5b/.idea/5b.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5b/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5b/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5b/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5b/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5b/5b.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MY_PROGRAMS/ QuadraticEquation /.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MY_PROGRAMS/ QuadraticEquation /.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +72,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -160,7 +190,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/naitiksingh/Documents/C_Programs/4a",
+    "last_opened_file_path": "/Users/naitiksingh/Documents/C_Programs/LAB_PROGRAMS/A/4a",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -170,36 +200,36 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="4a" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="4a" TARGET_NAME="4a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="4a" RUN_TARGET_NAME="4a">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
-  <component name="SelectedDebugProfileService"><![CDATA[{
-  "profileIdByStamp": [
+  <component name="SelectedDebugProfileService">{
+  &quot;profileIdByStamp&quot;: [
     {
-      "first": {
-        "##RUN_CONFIGURATION##": "CMake Application.4a",
-        "cmake": "CMakeBuildProfile:Debug"
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake Application.4a&quot;,
+        &quot;cmake&quot;: &quot;CMakeBuildProfile:Debug&quot;
       },
-      "second": "35055a98-4f28-4ac1-a09a-48442ad79b5d"
+      &quot;second&quot;: &quot;35055a98-4f28-4ac1-a09a-48442ad79b5d&quot;
     },
     {
-      "first": {
-        "##RUN_CONFIGURATION##": "CMake Application.4a",
-        "cmake": null
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;CMake Application.4a&quot;,
+        &quot;cmake&quot;: null
       },
-      "second": "35055a98-4f28-4ac1-a09a-48442ad79b5d"
+      &quot;second&quot;: &quot;35055a98-4f28-4ac1-a09a-48442ad79b5d&quot;
     }
   ],
-  "modificationCount": 13
-}]]></component>
+  &quot;modificationCount&quot;: 13
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ef6e3c0d-cce2-45ad-894b-8d03922fc3b4" name="Changes" comment="" />
