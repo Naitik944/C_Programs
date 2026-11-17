@@ -10,7 +10,7 @@ float findStdDeviation(int a[], int n, float mean);
 void output(int sum, int largest, int smallest, float mean, float stdDeviation);
 
 int main(void) {
-    int a[100], n, sum, largest, smallest;
+    int a[100], n,sum, largest, smallest;
     float mean, stdDeviation;
 
     printf("Enter number of elements: ");
@@ -86,7 +86,7 @@ float findStdDeviation(int a[], int n, float mean) {
 }
 
 void output(int sum, int largest, int smallest, float mean, float stdDeviation) {
-    printf("\n\n");
+    printf("\n");
     printf("Sum = %d\n", sum);
     printf("Largest = %d\n", largest);
     printf("Smallest = %d\n", smallest);
