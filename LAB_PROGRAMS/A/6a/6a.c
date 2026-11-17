@@ -35,8 +35,9 @@ int main(void) {
 
 int input(int a[], int n) {
     for (int i = 0; i < n; i++) {
-        printf("Enter number %d: ", i + 1);
-        if (scanf("%d", &a[i]) != 1) {
+        printf("Enter element at index %d: ", i);
+        if (scanf("%d", &a[i]) != 1)
+        {
             return 0;
         }
     }
@@ -85,6 +86,7 @@ float findStdDeviation(int a[], int n, float mean) {
 }
 
 void output(int sum, int largest, int smallest, float mean, float stdDeviation) {
+    printf("\n\n");
     printf("Sum = %d\n", sum);
     printf("Largest = %d\n", largest);
     printf("Smallest = %d\n", smallest);
