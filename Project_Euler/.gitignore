@@ -1,0 +1,35 @@
+
+# JetBrains IDE (CLion)
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# CMake build directories
+cmake-build-*/
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Ninja generated files
+.ninja_deps
+.ninja_log
+build.ninja
+
+# Compiled binaries and object files
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# Testing generated files
+Testing/
