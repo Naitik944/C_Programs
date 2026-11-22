@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffaeee0d-11bb-48c1-93af-930213bde3ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Addition.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add" beforeDir="false" afterPath="$PROJECT_DIR$/add" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add.c" beforeDir="false" afterPath="$PROJECT_DIR$/add.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add.dSYM/Contents/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add.dSYM/Contents/Resources/DWARF/add" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add.dSYM/Contents/Resources/Relocations/aarch64/add.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Naitik944&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Naitik944/C_Programs.git&quot;,
+    &quot;accountId&quot;: &quot;896cff24-46c7-4070-ac00-8316ddef9644&quot;
+  }
+}</component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="4KiTLpUE" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.2555267031526838" />
+      <entry key="MS500" value="3.211116138247584" />
+      <entry key="S2" value="6.440658590693528" />
+      <entry key="S5" value="8.723512566637833" />
+      <entry key="S10" value="10.251189624921308" />
+      <entry key="S30" value="14.98819140141583" />
+      <entry key="S60" value="24.81136515679447" />
+      <entry key="M2" value="46.862403446370074" />
+      <entry key="M5" value="89.97034643675016" />
+      <entry key="M10" value="118.53923565241448" />
+      <entry key="M15" value="130.83451295434566" />
+      <entry key="M30" value="144.89291282534882" />
+      <entry key="H1" value="152.67067799945218" />
+      <entry key="H2" value="156.76375612860107" />
+      <entry key="H4" value="158.86364081202677" />
+      <entry key="D1" value="160.64137763102582" />
+      <entry key="W1" value="160.9487050885721" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.115085650679878E-296" />
+      <entry key="MS500" value="7.329352204600093E-60" />
+      <entry key="S2" value="1.6453806967227097E-15" />
+      <entry key="S5" value="1.2204122525702346E-6" />
+      <entry key="S10" value="0.0011047227040112146" />
+      <entry key="S30" value="0.10349509768935564" />
+      <entry key="S60" value="0.3491041779238357" />
+      <entry key="M2" value="1.0011921632190899" />
+      <entry key="M5" value="3.0924915876182815" />
+      <entry key="M10" value="4.89941625952592" />
+      <entry key="M15" value="5.752294287106853" />
+      <entry key="M30" value="6.774297492965091" />
+      <entry key="H1" value="7.359262913874871" />
+      <entry key="H2" value="7.672331644111761" />
+      <entry key="H4" value="7.834298120979512" />
+      <entry key="D1" value="7.972119906813223" />
+      <entry key="W1" value="7.9960106370060124" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.037527306360013" />
+      <entry key="MS500" value="3.1155690931622493" />
+      <entry key="S2" value="6.399562701405113" />
+      <entry key="S5" value="8.69969625713405" />
+      <entry key="S10" value="10.230644884223508" />
+      <entry key="S30" value="15.05392403070945" />
+      <entry key="S60" value="25.103277753240416" />
+      <entry key="M2" value="47.77673769918694" />
+      <entry key="M5" value="92.97393816500093" />
+      <entry key="M10" value="123.37520164743395" />
+      <entry key="M15" value="136.53897425124745" />
+      <entry key="M30" value="151.64011012910674" />
+      <entry key="H1" value="160.015506300121" />
+      <entry key="H2" value="164.4286372540429" />
+      <entry key="H4" value="166.69415379257995" />
+      <entry key="D1" value="168.61285822706816" />
+      <entry key="W1" value="168.94462418661868" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JKWizsnTkjrPAbNhLrwnqFPfkL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;C/C++ File.add.c.executor&quot;: &quot;Run&quot;,
+    &quot;CidrDebugProfileConversion&quot;: &quot;true&quot;,
+    &quot;CidrDebugProfileConversion262&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/naitiksingh/Documents/C_Programs/MY_PROGRAMS/Addition/add.c&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="add.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Addition" TARGET_NAME="add.c" CONFIG_NAME="add.c">
+      <option name="sourceFile" value="add.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SelectedDebugProfileService">{
+  &quot;profileIdByStamp&quot;: [
+    {
+      &quot;first&quot;: {
+        &quot;##RUN_CONFIGURATION##&quot;: &quot;C/C++ File.add.c&quot;
+      },
+      &quot;second&quot;: &quot;24f448e2-0578-4586-af7c-6c6e3baead69&quot;
+    }
+  ],
+  &quot;modificationCount&quot;: 2
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffaeee0d-11bb-48c1-93af-930213bde3ee" name="Changes" comment="" />
+      <created>1789410371227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789410371227</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
