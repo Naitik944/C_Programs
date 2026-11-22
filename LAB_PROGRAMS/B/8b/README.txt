@@ -1,39 +1,33 @@
-8a)  Write a modular C program by passing two-dimensional arrays to functions to perform matrix operations like addition, subtraction.
+8b) Write a modular C program by passing two-dimensional arrays to functions to perform transpose of matrices.
 
 The program should:
 
-Read a string from the user.
-Use a user-defined function to count the number of vowels.
-Use another user-defined function to count the number of consonants.
-Ignore digits, spaces, and special characters.
-Display the total number of vowels and consonants.
+Read the number of rows and columns of the matrix.
+Read the elements of the matrix.
+Pass the matrix to a function to find its transpose.
+Display the original matrix and its transpose using separate functions.
+The transpose of a matrix is obtained by interchanging its rows and columns.
+
 Function Prototypes
 void input(int rows, int cols, int matrix[rows][cols]);
-void addMatrix(int rows, int cols, int a[rows][cols], int b[rows][cols], int sum[rows][cols]);
-void subtractMatrix(int rows, int cols, int a[rows][cols], int b[rows][cols], int diff[rows][cols]);
+void transpose(int rows, int cols, int matrix[rows][cols], int transposed[cols][rows]);
 void output(int rows, int cols, int matrix[rows][cols]);
 
 Sample Input
-Enter the number of rows: 2
-Enter the number of columns: 2
-
-Enter elements of first matrix:
-Enter element at [0][0]: 1
-Enter element at [0][1]: 2
-Enter element at [1][0]: 3
-Enter element at [1][1]: 4
-
-Enter elements of second matrix:
-Enter element at [0][0]: 5
-Enter element at [0][1]: 6
-Enter element at [1][0]: 7
-Enter element at [1][1]: 8
-
+2
+3
+1 2 3
+4 5 6
 Sample Output
-Sum of matrices:
-6 8
-10 12
+Enter the number of rows: 2
+Enter the number of columns: 3
+Enter the elements of the matrix:
 
-Difference of matrices:
--4 -4
--4 -4
+Original Matrix:
+1 2 3
+4 5 6
+
+Transpose of Matrix:
+1 4
+2 5
+3 6
